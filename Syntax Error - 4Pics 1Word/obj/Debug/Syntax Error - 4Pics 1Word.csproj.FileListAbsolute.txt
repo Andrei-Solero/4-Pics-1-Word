@@ -1,0 +1,114 @@
+C:\Users\SoleroFamily\Desktop\4pics1Word\Syntax Error - 4Pics 1Word\bin\Debug\Syntax Error - 4Pics 1Word.exe.config
+C:\Users\SoleroFamily\Desktop\4pics1Word\Syntax Error - 4Pics 1Word\bin\Debug\Syntax Error - 4Pics 1Word.exe
+C:\Users\SoleroFamily\Desktop\4pics1Word\Syntax Error - 4Pics 1Word\bin\Debug\Syntax Error - 4Pics 1Word.pdb
+C:\Users\SoleroFamily\Desktop\4pics1Word\Syntax Error - 4Pics 1Word\bin\Debug\Bunifu_UI_v1.5.dll
+C:\Users\SoleroFamily\Desktop\4pics1Word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.Properties.Resources.resources
+C:\Users\SoleroFamily\Desktop\4pics1Word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.SplashScreen.resources
+C:\Users\SoleroFamily\Desktop\4pics1Word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.GenerateResource.Cache
+C:\Users\SoleroFamily\Desktop\4pics1Word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.exe
+C:\Users\SoleroFamily\Desktop\4pics1Word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.pdb
+C:\Users\SoleroFamily\Desktop\4pics1Word\Syntax Error - 4Pics 1Word\bin\Debug\XanderUI.dll
+C:\Users\SoleroFamily\Desktop\4pics1Word\Syntax Error - 4Pics 1Word\bin\Debug\Guna.UI2.dll
+C:\Users\SoleroFamily\Desktop\4pics1Word\Syntax Error - 4Pics 1Word\bin\Debug\Interop.WMPLib.dll
+C:\Users\SoleroFamily\Desktop\4pics1Word\Syntax Error - 4Pics 1Word\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SoleroFamily\Desktop\4pics1Word\Syntax Error - 4Pics 1Word\obj\Debug\Interop.WMPLib.dll
+C:\Users\SoleroFamily\Desktop\4pics1Word\Syntax Error - 4Pics 1Word\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SoleroFamily\Desktop\4pics1Word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.ResolveComReference.cache
+C:\Users\SoleroFamily\Desktop\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.Game.resources
+C:\Users\SoleroFamily\Desktop\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.CorrectAnswer.resources
+C:\Users\SoleroFamily\Desktop\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.HintPrompt.resources
+C:\Users\SoleroFamily\Desktop\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csprojResolveAssemblyReference.cache
+C:\Users\SoleroFamily\Desktop\Stuffs\SI SHARP\Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\Syntax Error - 4Pics 1Word.exe.config
+C:\Users\SoleroFamily\Desktop\Stuffs\SI SHARP\Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Interop.WMPLib.dll
+C:\Users\SoleroFamily\Desktop\Stuffs\SI SHARP\Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SoleroFamily\Desktop\Stuffs\SI SHARP\Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.ResolveComReference.cache
+C:\Users\SoleroFamily\Desktop\Stuffs\SI SHARP\Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.exe
+C:\Users\SoleroFamily\Desktop\Stuffs\SI SHARP\Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.pdb
+C:\Users\SoleroFamily\Desktop\Stuffs\SI SHARP\Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\Syntax Error - 4Pics 1Word.exe
+C:\Users\SoleroFamily\Desktop\Stuffs\SI SHARP\Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\Syntax Error - 4Pics 1Word.pdb
+C:\Users\SoleroFamily\Desktop\Stuffs\SI SHARP\Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\Interop.WMPLib.dll
+C:\Users\SoleroFamily\Desktop\Stuffs\SI SHARP\Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SoleroFamily\Desktop\Stuffs\SI SHARP\Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csprojResolveAssemblyReference.cache
+C:\Users\SoleroFamily\Desktop\Stuffs\SI SHARP\Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.CorrectAnswer.resources
+C:\Users\SoleroFamily\Desktop\Stuffs\SI SHARP\Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.HintPrompt.resources
+C:\Users\SoleroFamily\Desktop\Stuffs\SI SHARP\Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.Game.resources
+C:\Users\SoleroFamily\Desktop\Stuffs\SI SHARP\Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.Properties.Resources.resources
+C:\Users\SoleroFamily\Desktop\Stuffs\SI SHARP\Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.SplashScreen.resources
+C:\Users\SoleroFamily\Desktop\Stuffs\SI SHARP\Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.GenerateResource.Cache
+C:\Users\SoleroFamily\Documents\Stuffs\SI SHARP\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\Syntax Error - 4Pics 1Word.exe.config
+C:\Users\SoleroFamily\Documents\Stuffs\SI SHARP\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Interop.WMPLib.dll
+C:\Users\SoleroFamily\Documents\Stuffs\SI SHARP\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SoleroFamily\Documents\Stuffs\SI SHARP\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.ResolveComReference.cache
+C:\Users\SoleroFamily\Documents\Stuffs\SI SHARP\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.exe
+C:\Users\SoleroFamily\Documents\Stuffs\SI SHARP\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.pdb
+C:\Users\SoleroFamily\Documents\Stuffs\SI SHARP\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\Syntax Error - 4Pics 1Word.exe
+C:\Users\SoleroFamily\Documents\Stuffs\SI SHARP\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\Syntax Error - 4Pics 1Word.pdb
+C:\Users\SoleroFamily\Documents\Stuffs\SI SHARP\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\Interop.WMPLib.dll
+C:\Users\SoleroFamily\Documents\Stuffs\SI SHARP\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SoleroFamily\Documents\Stuffs\SI SHARP\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csprojResolveAssemblyReference.cache
+C:\Users\SoleroFamily\Documents\Stuffs\SI SHARP\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.CorrectAnswer.resources
+C:\Users\SoleroFamily\Documents\Stuffs\SI SHARP\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.HintPrompt.resources
+C:\Users\SoleroFamily\Documents\Stuffs\SI SHARP\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.Game.resources
+C:\Users\SoleroFamily\Documents\Stuffs\SI SHARP\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.Properties.Resources.resources
+C:\Users\SoleroFamily\Documents\Stuffs\SI SHARP\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.SplashScreen.resources
+C:\Users\SoleroFamily\Documents\Stuffs\SI SHARP\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.GenerateResource.Cache
+D:\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\Syntax Error - 4Pics 1Word.exe.config
+D:\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\Syntax Error - 4Pics 1Word.exe
+D:\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\Syntax Error - 4Pics 1Word.pdb
+D:\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\Interop.WMPLib.dll
+D:\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\AxInterop.WMPLib.dll
+D:\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.AssemblyReference.cache
+D:\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.SuggestedBindingRedirects.cache
+D:\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Interop.WMPLib.dll
+D:\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\AxInterop.WMPLib.dll
+D:\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.ResolveComReference.cache
+D:\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.CorrectAnswer.resources
+D:\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.HintPrompt.resources
+D:\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.Game.resources
+D:\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.Properties.Resources.resources
+D:\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.SplashScreen.resources
+D:\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.GenerateResource.cache
+D:\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.CoreCompileInputs.cache
+D:\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.CopyComplete
+D:\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.exe
+D:\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.pdb
+D:\MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\Syntax Error - 4Pics 1Word.exe.config
+D:\MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\Syntax Error - 4Pics 1Word.exe
+D:\MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\Syntax Error - 4Pics 1Word.pdb
+D:\MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\Interop.WMPLib.dll
+D:\MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\AxInterop.WMPLib.dll
+D:\MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.AssemblyReference.cache
+D:\MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.SuggestedBindingRedirects.cache
+D:\MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Interop.WMPLib.dll
+D:\MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\AxInterop.WMPLib.dll
+D:\MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.ResolveComReference.cache
+D:\MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.CorrectAnswer.resources
+D:\MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.HintPrompt.resources
+D:\MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.Game.resources
+D:\MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.Properties.Resources.resources
+D:\MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.SplashScreen.resources
+D:\MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.GenerateResource.cache
+D:\MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.CoreCompileInputs.cache
+D:\MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.CopyComplete
+D:\MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.exe
+D:\MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.pdb
+D:\_MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\Syntax Error - 4Pics 1Word.exe.config
+D:\_MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\Syntax Error - 4Pics 1Word.exe
+D:\_MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\Syntax Error - 4Pics 1Word.pdb
+D:\_MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\Interop.WMPLib.dll
+D:\_MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\bin\Debug\AxInterop.WMPLib.dll
+D:\_MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.AssemblyReference.cache
+D:\_MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.SuggestedBindingRedirects.cache
+D:\_MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Interop.WMPLib.dll
+D:\_MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\AxInterop.WMPLib.dll
+D:\_MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.ResolveComReference.cache
+D:\_MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.CorrectAnswer.resources
+D:\_MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.HintPrompt.resources
+D:\_MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.Game.resources
+D:\_MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.Properties.Resources.resources
+D:\_MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax_Error___4Pics_1Word.SplashScreen.resources
+D:\_MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.GenerateResource.cache
+D:\_MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.CoreCompileInputs.cache
+D:\_MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.csproj.CopyComplete
+D:\_MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.exe
+D:\_MINE\Major Projects\4pics1word\Syntax Error - 4Pics 1Word\obj\Debug\Syntax Error - 4Pics 1Word.pdb
